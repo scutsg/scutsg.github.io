@@ -1,6 +1,6 @@
 ---
-layout: home
-title: "Welcome to SCUTSG"
+layout: single
+title: "South China University of Technology Alumni Association (Singapore)"
 author_profile: true
 header:
   overlay_image: /assets/images/banner.jpg

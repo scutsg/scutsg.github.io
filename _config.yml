@@ -12,6 +12,10 @@ plugins:
   - jekyll-archives
   - jekyll-include-cache
 
+author:
+  name: "Your SCUT Name"
+  avatar: "/assets/images/profile.jpg"
+
 collections:
   story:
     output: true

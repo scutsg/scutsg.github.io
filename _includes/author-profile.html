@@ -1,0 +1,8 @@
+{% if site.author %}
+  <div class="author__avatar">
+    <img src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="{{ site.author.name }}">
+  </div>
+  <div class="author__content">
+    <h3 class="author__name">{{ site.author.name }}</h3>
+  </div>
+{% endif %}

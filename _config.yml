@@ -1,0 +1,38 @@
+title: "SCUTSG Association"
+email: "your-email@example.com"
+description: >- 
+  Official website of SCUTSG Association.
+baseurl: ""  # Since it's scutsg.github.io root repo
+url: "https://scutsg.github.io"
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-archives
+  - jekyll-include-cache
+
+collections:
+  story:
+    output: true
+    permalink: /story/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: single
+      author_profile: false
+  - scope:
+      path: ""
+      type: "story"
+    values:
+      layout: single
+
+footer:
+  links:
+    - label: "Contact"
+      url: mailto:your-email@example.com
+    - label: "GitHub"
+      url: https://github.com/scutsg/scutsg.github.io

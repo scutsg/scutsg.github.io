@@ -1,0 +1,13 @@
+main:
+  - title: "News"
+    url: "/news/"
+  - title: "Committee"
+    url: "/committee/"
+  - title: "Rules"
+    url: "/rules/"
+  - title: "Story"
+    url: "/story/"
+  - title: "Registration"
+    url: "/registration/"
+  - title: "Links"
+    url: "/links/"

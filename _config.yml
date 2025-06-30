@@ -7,7 +7,6 @@ url: "https://scutsg.github.io"
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-remote-theme
-  - jekyll-feed
   - jekyll-paginate
   - jekyll-archives
   - jekyll-include-cache
@@ -35,8 +34,4 @@ defaults:
       layout: single
 
 footer:
-  links:
-    - label: "Contact"
-      url: mailto:your-email@example.com
-    - label: "GitHub"
-      url: https://github.com/scutsg/scutsg.github.io
+  links: []

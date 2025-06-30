@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "South China University of Technology Alumni Association (Singapore)"
+title: "SCUT SG Test"
 author_profile: true
 header:
   overlay_image: /assets/images/banner.jpg

@@ -2,7 +2,7 @@ title: "SCUTSG Association"
 email: "your-email@example.com"
 description: >- 
   Official website of SCUTSG Association.
-baseurl: ""  # Since it's scutsg.github.io root repo
+baseurl: ""
 url: "https://scutsg.github.io"
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:

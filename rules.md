@@ -1,6 +1,7 @@
 ---
-title: "Association Rules"
+title: "章程"
 layout: single
+classes: wide
 permalink: /rules/
 ---
 

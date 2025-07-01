@@ -2,6 +2,7 @@
 title: "历届理事会"
 layout: single
 classes: wide
+author_profile: true
 permalink: /committee/
 ---
 

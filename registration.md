@@ -1,6 +1,7 @@
 ---
 title: "新会员注册"
 layout: single
+author_profile: true
 permalink: /registration/
 ---
 

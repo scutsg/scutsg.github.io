@@ -2,6 +2,7 @@
 title: "章程"
 layout: single
 classes: wide
+author_profile: true
 permalink: /rules/
 ---
 

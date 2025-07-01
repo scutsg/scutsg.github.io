@@ -1,6 +1,7 @@
 ---
 title: "友情链接"
 layout: single
+author_profile: true
 permalink: /links/
 ---
 

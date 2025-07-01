@@ -1,7 +1,7 @@
-title: "SCUTSG Association"
+title: "华南理工大学新加坡校友会"
 email: "your-email@example.com"
 description: >- 
-  Official website of SCUTSG Association.
+  Website of South China University of Technology Alumni Association (Singapore).
 baseurl: ""
 url: "https://scutsg.github.io"
 remote_theme: "mmistakes/minimal-mistakes"
@@ -12,7 +12,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: "Your SCUT Name"
+  name: "华南理工大学新加坡校友会"
   avatar: "/assets/images/profile.jpg"
 
 collections:
@@ -32,6 +32,7 @@ defaults:
       type: "story"
     values:
       layout: single
+      author_profile: true
 
 footer:
   links: []

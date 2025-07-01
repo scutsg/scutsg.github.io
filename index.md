@@ -2,6 +2,7 @@
 layout: single
 title: "South China University of Technology Alumni Association (Singapore)"
 author_profile: true
+classes: wide
 header:
   overlay_image: /assets/images/banner.jpg
   overlay_filter: 0.3

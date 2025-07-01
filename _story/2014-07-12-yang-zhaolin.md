@@ -1,7 +1,8 @@
 ---
-title: "杰出校友：杨照林"
+title: "杰出校友： 杨照林"
 layout: single
 classes: wide
+author_profile: true
 ---
 
 ![](/assets/images/20140712b.jpg)

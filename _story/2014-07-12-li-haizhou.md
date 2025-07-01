@@ -1,7 +1,8 @@
 ---
-title: "杰出校友：李海洲"
+title: "杰出校友： 李海洲"
 layout: single
 classes: wide
+author_profile: true
 ---
 
 ![](/assets/images/20140712a.jpg)

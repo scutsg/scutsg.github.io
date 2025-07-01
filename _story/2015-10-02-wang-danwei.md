@@ -1,7 +1,8 @@
 ---
-title: "Wang Danwei 校友 Rise of the machines"
+title: "杰出校友： 王郸维"
 layout: single
 classes: wide
+author_profile: true
 ---
 
 [全文转自 http://www.todayonline.com/singapore/rise-machines?singlepage=true]

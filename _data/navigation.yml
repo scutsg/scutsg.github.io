@@ -12,5 +12,5 @@ main:
   - title: "友情链接"
     url: "/links/"
   - title: "新会员注册"
-    url: "/registration/"
+    url: "/apply/"
 

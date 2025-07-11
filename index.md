@@ -11,8 +11,11 @@ header:
 **华南理工大学新加坡校友会**
 
 - 注册时间： 2014年2月21日于新加坡内政部社团 (Registry of Societies) 正式注册
-- 注册号码 (Unique Entity Number): T14SS0029E
+- 注册号码 (Unique Entity Number)： T14SS0029E
 
-- 历年校友会活动报道，请查阅 [活动](/news)  
+- 校友会宗旨： 服务校友，服务母校，服务本地社会
+
+- 历次校友会活动报道，请查阅 [活动](/news)
+- 校友会理事会架构，请查阅 [理事会](/committee)  
 - 加入校友会成为会员，请点击 [新会员注册](/apply)
 
